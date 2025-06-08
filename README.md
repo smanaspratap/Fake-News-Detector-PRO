@@ -32,6 +32,4 @@ An advanced AI-powered fake news detection system that combines multiple analysi
 - Python 3.9+
 - Gemini API Key
 
-### Installation
 
-1. Clone the repository:
